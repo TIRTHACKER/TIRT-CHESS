@@ -1,2 +1,3 @@
 # TIRT-CHESS
-Simple python chess game. Have fun.
+Simple chess game. Have fun.
+Created 14.11.2021
