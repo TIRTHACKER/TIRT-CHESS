@@ -1,2 +1,2 @@
 # TIRT-CHESS
-Simple python chess game
+Simple python chess game. Have fun.
